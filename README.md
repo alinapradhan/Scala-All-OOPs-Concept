@@ -30,7 +30,7 @@ The notebook covers the following OOP concepts in Scala:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/scala-oops-concepts.git
+   git clone https://github.com/alinapradhan/scala-oops-concepts.git
    cd scala-oops-concepts
    ```
 2. Install Jupyter + Almond Scala kernel:
